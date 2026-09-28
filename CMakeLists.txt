@@ -5,6 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(Laptrinhthidau
-        README.md
-        WeirdAlgorithm.cpp)
+
+add_executable(Laptrinhthidau WeirdAlgorithm.cpp)
